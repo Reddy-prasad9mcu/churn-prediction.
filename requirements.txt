@@ -1,4 +1,4 @@
 azure-functions
 joblib
 pandas
-
+scikit-learn
