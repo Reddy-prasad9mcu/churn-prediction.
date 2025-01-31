@@ -1,0 +1,4 @@
+azure-functions
+joblib
+pandas
+sqlite3
